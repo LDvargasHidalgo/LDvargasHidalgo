@@ -21,16 +21,15 @@
 <img  align="center"  src="https://img.icons8.com/windows/32/000000/dev.png"  height="40"  width="40"  /></a>
     
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
-<br />
+
 
 <!--For adding Gif
 <p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
 
 
 
-### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
+### Acerca de mi 🚀
+🎓 Soy una codificadora entusista y dedicada, en este momento (mayo/2022) me encuentro culminando el Bootcamp fullStack con Simplon by Educamas </br>
 ⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes) and [CNCF](https://github.com/cncf)</br>
 ✅ Approver and Reviewer for K8s Hindi Docs and CNCF Hindi Glossary</br>
 🌱 Learning Go, DevOps, AWS, GCP, Azure</br>
