@@ -15,13 +15,9 @@
 
 <a  href="https://www.linkedin.com/in/daniela-vargas-hidalgo/"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
-<a href="mailto:shahriyarmitul3737@gmail.com" target="_blank">
+<a href="mailto:danielavargas@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
-<a href="https://discord.gg/yzegezxsd8" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/discord.png"  height="40"  width="40"  /></a>  
-<a href="https://www.youtube.com/c/MitulShahriyar" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/youtube.png"  height="40"  width="40"  /></a>
-<a href="https://dev.to/mitul3737" target="_blank">
+<a href="https://full-portafolio.vercel.app/" target="_blank">
 <img  align="center"  src="https://img.icons8.com/windows/32/000000/dev.png"  height="40"  width="40"  /></a>
     
 
