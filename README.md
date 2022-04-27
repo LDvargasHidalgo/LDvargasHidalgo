@@ -30,12 +30,9 @@
 
 ### Acerca de mi 🚀
 🎓 Soy una codificadora entusista y dedicada, en este momento (mayo/2022) me encuentro culminando el Bootcamp fullStack con Simplon by Educamas </br>
-⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes) and [CNCF](https://github.com/cncf)</br>
-✅ Approver and Reviewer for K8s Hindi Docs and CNCF Hindi Glossary</br>
-🌱 Learning Go, DevOps, AWS, GCP, Azure</br>
-😄 Pronouns: He/him/his</br>
+😄 Me encanta explorar nuevas tecnologías</br>
 
-### My Experiences 🙌
+### Mi experiencia 🙌
 - [GitHub Campus Expert](https://githubcampus.expert/experts) - Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects.
 - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Mitul&cb-cards.q_operator=AND) – AWS Community builders are very enthusiast about Cloud and they do experiment cloud features and do test some awesome features and enlightens their community
 - [Microsoft Learn Student Ambassador]( https://studentambassadors.microsoft.com/en-US/profile/94378 ) - Conducted workshops & webinars on Azure, GitHub & Git etc.
