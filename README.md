@@ -1,8 +1,8 @@
 
 <!-- Updating my readme for GitHub-->
 
-<h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, yo soy,Laura Vargas</h1>
-
+<h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> soy, Laura Vargas</h1>
+<img align='right' src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="230">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
