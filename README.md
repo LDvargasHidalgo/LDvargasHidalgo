@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, soy Laura Vargas</h1>
 <img align='right' src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="230">
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=580&height=45&lines=Capacidad+de+Trabajo+En+Equipo;Adaptación+A+Nuevas+Tecnologías;Gran+Habilidad+De+Solución+De+Problemas;Gusto+En+Conocerte...&center=true"></a>
@@ -12,6 +12,8 @@
 
 
 <p  align="left">
+    
+   
 
 <a  href="https://www.linkedin.com/in/daniela-vargas-hidalgo/"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
@@ -33,7 +35,7 @@
 😄 Me encanta explorar nuevas tecnologías</br>
 
 ### Mi experiencia 🙌
-- Llevo un año dedicada a estudiar programación tiempo durante el cual e adquirido grandes habilidades y e conocido lenguajes de programación como, Java, JavaScript, python y algunas herramientas y framework que agilizan mis trabajos como desarrolladora
+- Llevo un año dedicada a estudiar programación tiempo durante el cual e adquirido grandes habilidades y  conocido lenguajes de programación como, Java, JavaScript, python y algunas herramientas y framework que agilizan mis trabajos como desarrolladora
 - E adquirido una gran capacidad de trabajo en equipo haciendo uso de marcos de trabajo como SCRUM
 
 
