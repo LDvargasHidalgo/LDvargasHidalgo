@@ -30,7 +30,7 @@
 😄 Me encanta explorar nuevas tecnologías</br>
 
 ### Mi experiencia 🙌
-- Llevo un año dedicada a estudiar programación tiempo durante el cual e adquirido grandes habilidades y  conocido lenguajes de programación como, Java, JavaScript, python y algunas herramientas y framework que agilizan mis trabajos como desarrolladora
+- Llevo un año dedicada a estudiar programación, tiempo durante el cual e adquirido grandes habilidades y  conocido lenguajes de programación como, Java, JavaScript, python y algunas herramientas y framework que agilizan mis trabajos como desarrolladora
 - E adquirido una gran capacidad de trabajo en equipo haciendo uso de marcos de trabajo como SCRUM
 
 
