@@ -1,18 +1,13 @@
 
 
-
-<h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, soy Laura Vargas</h1>
-<img align='right' src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="230">
-
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=580&height=45&lines=Capacidad+de+Trabajo+En+Equipo;Adaptación+A+Nuevas+Tecnologías;Gran+Habilidad+De+Solución+De+Problemas;Gusto+En+Conocerte...&center=true"></a>
 
 </p>
 
-
-
-    
+<h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, soy Laura Vargas</h1>
+<img align='right' src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="230">   
    
 
 <a  href="https://www.linkedin.com/in/daniela-vargas-hidalgo/"  target="_blank">
@@ -48,3 +43,5 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
 
 </p>
+
+
