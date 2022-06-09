@@ -26,7 +26,7 @@
 
 
 ### Acerca de mi 🚀
-🎓 Soy una codificadora entusista y dedicada, en este momento (mayo/2022) me encuentro culminando el Bootcamp fullStack con Simplon by Educamas </br>
+🎓 Soy una codificadora entusista y dedicada,dessarrolladora web full stack graduada de el  Bootcamp Simplon by Educamas </br>
 😄 Me encanta explorar nuevas tecnologías</br>
 
 ### Mi experiencia 🙌
